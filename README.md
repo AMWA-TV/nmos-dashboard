@@ -22,4 +22,4 @@
 
 <!-- INTRO-END -->
 
-.
+{% include dashboard_table.html %}
