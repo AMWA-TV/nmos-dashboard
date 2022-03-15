@@ -20,6 +20,6 @@
 - Gets list of specs from <https://specs.amwa.tv/nmos/spec_list.json> 
 - Uses GitHub badges and API
 
-**[Go to the Dashboard!](https://specs.amwa.tv/nmos-dashboard/Dashboard.html)**
+**[Go to the Dashboard!](https://specs.amwa.tv/nmos-dashboard/dashboard.html)**
 
 <!-- INTRO-END -->
