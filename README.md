@@ -1,7 +1,7 @@
 # AMWA NMOS CI Dashboard
 
-<a href="https://github.com/AMWA-TV/nmos/actions?query=workflow%3ALint"><img src="https://github.com/AMWA-TV/nmos/workflows/Lint/badge.svg"/></a> 
-<a href="https://github.com/AMWA-TV/nmos/actions?query=workflow%3ARender"><img src="https://github.com/AMWA-TV/nmos/workflows/Render/badge.svg"/></a> 
+<a href="https://github.com/AMWA-TV/nmos-dashboard/actions?query=workflow%3ALint"><img src="https://github.com/AMWA-TV/nmos-dashboard/workflows/Lint/badge.svg"/></a>
+<a href="https://github.com/AMWA-TV/nmos-dashboard/actions?query=workflow%3ARender"><img src="https://github.com/AMWA-TV/nmos-dashboard/workflows/Render/badge.svg"/></a>
 
 <!-- INTRO-START -->
 
