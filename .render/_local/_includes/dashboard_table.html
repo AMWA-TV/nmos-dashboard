@@ -7,6 +7,7 @@
       <th>Render<br/>(All)</th>
       <th>Open<br/>Issues</th>
       <th>Open<br/>PRs</th>
+			<th>Triage</th>
 		</tr>
 	</thead>
 	<tbody>
@@ -18,6 +19,7 @@
 			<td><a href="{{ spec.repo_url }}/actions?query=workflow%3ARender"><img src="{{ spec.repo_url }}/workflows/Render/badge.svg" /></a></td>			
 			<td><a href="{{ spec.repo_url }}/issues">{{ spec.num_issues }}</a></td>
 			<td><a href="{{ spec.repo_url }}/pulls">{{ spec.num_pulls }}</a></td>
+			<td><a href="{{ spec.repo_url }}/labels/triage">{{ spec.num_triage }}</a></td>
 		</tr>
 		{% endfor %}
 	</tbody>
